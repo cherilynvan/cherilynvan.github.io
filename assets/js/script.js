@@ -11,12 +11,12 @@ if ($(window).width() <= 1280) {
 }
 
 // Variables
-    tag1       = $('.pl__all'),
-    tag2       = $('.place_your_tag_name_here'),
-    tag3       = $('.place_your_tag_name_here'),
-    tag4       = $('.place_your_tag_name_here'),
-    tag5       = $('.place_your_tag_name_here'),
-    tag6       = $('.place_your_tag_name_here');
+    tag1       = $('.全部文章'),
+    tag2       = $('.吃'),
+    tag3       = $('.喝'),
+    tag4       = $('.玩'),
+    tag5       = $('.乐'),
+    tag6       = $('.用');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),
